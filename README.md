@@ -1,3 +1,3 @@
 # flutter_calculator
 
-A new Flutter project.
+My college project for the Mobile Development class. It's a simple calculator app made with Flutter.
